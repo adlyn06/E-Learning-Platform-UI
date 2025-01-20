@@ -1,1 +1,3 @@
 # E-Learning-Platform-UI
+
+E-Learning Platform UI: A simple and user-friendly user interface designed for an e-learning platform, built with HTML, CSS, and JavaScript. The platform includes key sections like Home, where users can get an overview, Courses List to display available courses, and a Contact section for user inquiries. The design prioritizes ease of use, offering smooth navigation between sections. Although not fully responsive, the interface is clean and straightforward, focusing on delivering a functional and engaging experience for users to explore courses or reach out for support. This project demonstrates foundational front-end development skills and effective UI design for an e-learning platform.
